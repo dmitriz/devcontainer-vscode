@@ -1,0 +1,11 @@
+{
+  "name": "node-dev-test",
+  "type": "commonjs",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "devDependencies": {
+    "@devcontainers/cli": "^0.76.0"
+  }
+}
